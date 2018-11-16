@@ -1,0 +1,6 @@
+resolver: lts-12.18
+packages:
+  - .
+extra-deps:
+  - haddock-api-2.20.0@sha256:082f98f69e4f07e8edc09bc507f68d1dfce00cd658ebd8581a067bbf4b271936
+  - haddock-library-1.6.0
